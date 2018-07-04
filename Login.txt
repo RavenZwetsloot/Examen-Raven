@@ -1,0 +1,5 @@
+Er kan worden geregistreerd
+
+Login:
+	Email: raven2@project.org
+	pass: 1234567
